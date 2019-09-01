@@ -7,7 +7,6 @@ int main()
 {
     int x;
     int resto;
-    int i;
     cout<<"Insira Número: ";
     cin>>x;
     vector<int>lista;
