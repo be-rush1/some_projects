@@ -1,4 +1,4 @@
-escolhe_bloco=int(input("Você Deseja Encriptar(0) ou Descriptar(1) uma palavra? "))
+escolhe_bloco=int(input("Você Deseja Encriptar(0) ou Decriptar(1) uma palavra? "))
 if escolhe_bloco==0:
     v=[]
     while True:
